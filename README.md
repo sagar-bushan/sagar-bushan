@@ -1,16 +1,35 @@
-## Hi there 👋
+# Sagar Nagabushana
+## Data Analytics & Business Intelligence Expert 👨‍💻
 
-<!--
-**sagar-bushan/sagar-bushan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+With 9+ years of experience in analytics leadership and technical implementation, I help organizations transform their data into actionable insights. Currently based in Bengaluru, relocating to Berlin in March 2025.
 
-Here are some ideas to get you started:
+### 🎯 What I Do
+- Build end-to-end analytics systems
+- Develop data-driven strategies
+- Implement BI solutions
+- Optimize business processes
+- Lead analytics teams
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💡 Core Skills
+```python
+skills = {
+    'Analytics & BI': ['Power BI', 'Tableau', 'Business Strategy', 'KPI Frameworks'],
+    'Programming': ['Python', 'SQL', 'SAS', 'DAX', 'Unix Shell Scripting'],
+    'Cloud': ['Microsoft Azure', 'Azure Data Factory'],
+    'Domains': ['Financial Services', 'Real Estate', 'Retail', 'E-commerce']
+}
+```
+
+### 🏆 Key Achievements
+- Reduced operational costs by $125K through analytics-driven optimization
+- Improved e-commerce performance with 25% reduction in returns
+- Automated business processes saving 100+ manual hours monthly
+- Led cross-functional teams across India, US & Singapore
+
+### 📫 Connect With Me
+- [LinkedIn](https://www.linkedin.com/in/sagar-nagabushana)
+- [Portfolio Website](https://sagar-bushan.github.io) (Coming Soon)
+- [Email](mailto:sagar.bushan@gmail.com)
+
+### 📊 Featured Projects
+Check out my pinned repositories below for detailed case studies and technical implementations!
