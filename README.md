@@ -26,8 +26,7 @@ skills = {
 - Automated business processes saving 100+ manual hours monthly
 - Led cross-functional teams across India, US & Singapore
 
-### 📊 Featured Projects
-[Portfolio](https://github.com/sagar-bushan/sagar-bushan.github.io)
+### 📊 [Portfolio](https://github.com/sagar-bushan/sagar-bushan.github.io)
   
 ### 📫 Connect With Me
 - [LinkedIn](https://www.linkedin.com/in/sagar-nagabushana)
