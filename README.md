@@ -28,7 +28,7 @@ skills = {
 
 ### 📫 Connect With Me
 - [LinkedIn](https://www.linkedin.com/in/sagar-nagabushana)
-- [Portfolio Website](https://github.com/sagar-bushan/sagar-bushan.github.io)
+- [Portfolio](https://github.com/sagar-bushan/sagar-bushan.github.io)
 - [Email](mailto:sagar.bushan@gmail.com)
 
 ### 📊 Featured Projects
