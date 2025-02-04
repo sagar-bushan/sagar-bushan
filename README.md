@@ -1,7 +1,7 @@
 # Sagar Nagabushana
 ## Data Analytics & Business Intelligence Expert 👨‍💻
 
-With 9+ years of experience in analytics leadership and technical implementation, I help organizations transform their data into actionable insights. Currently based in Bengaluru, relocating to Berlin in March 2025.
+With 9+ years of experience in analytics leadership and technical implementation, I help organizations transform their data into actionable insights.
 
 ### 🎯 What I Do
 - Build end-to-end analytics systems
