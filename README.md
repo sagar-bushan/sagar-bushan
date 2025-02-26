@@ -29,7 +29,7 @@ With 9+ years of analytics experience across Financial Services, Commercial Real
 ├── Advanced Analytics
 │   ├── Statistical Analysis
 │   ├── Predictive Modeling
-│   └── Customer Segmentation
+│   └── Segmentation & Clustering
 └── Business Strategy
     ├── Process Improvement
     ├── Supply Demand Management
