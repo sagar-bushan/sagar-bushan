@@ -1,34 +1,49 @@
-# Sagar Nagabushana
-## Data Analytics & Business Intelligence Expert 👨‍💻
+# Hey there, I'm Sagar Nagabushana 👋
 
-With 9+ years of experience in analytics leadership and technical implementation, I help organizations transform their data into actionable insights.
+## Data Analytics Consultant | Business Intelligence Expert
 
-### 🎯 What I Do
-- Build end-to-end analytics systems
-- Develop data-driven strategies
-- Implement BI solutions
-- Optimize business processes
-- Lead analytics teams
+I transform complex business challenges into data-driven success stories.
 
-### 💡 Core Skills
-```python
-skills = {
-    'Analytics & BI': ['Power BI', 'Tableau', 'Business Strategy', 'KPI Frameworks'],
-    'Programming': ['Python', 'SQL', 'SAS', 'DAX', 'Unix Shell Scripting'],
-    'Cloud': ['Microsoft Azure', 'Azure Data Factory'],
-    'Domains': ['Financial Services', 'Real Estate', 'Retail', 'E-commerce']
-}
+With 9+ years of analytics experience across Financial Services, Commercial Real Estate, and Retail, I specialize in building end-to-end analytics solutions that deliver measurable business impact.
+
+### What I Bring to the Table
+
+- 📊 **Data Strategy & Implementation** - From raw data to actionable insights
+- 🔍 **Business Performance Analytics** - KPI frameworks that drive results
+- 📈 **Visualization & Storytelling** - Clear, compelling dashboards in Power BI & Tableau
+- 🚀 **Process Optimization** - Automation that saves time and reduces costs
+- 💼 **Cross-Functional Leadership** - Experience guiding teams across cultures and departments
+
+### My Technical Toolkit
+
+```
+├── Analysis & Visualization
+│   ├── Power BI
+│   ├── Tableau
+│   └── Cognos
+├── Data Processing & ETL
+│   ├── SQL
+│   ├── Python
+│   ├── SAS
+│   └── Azure Data Factory
+├── Advanced Analytics
+│   ├── Statistical Analysis
+│   ├── Predictive Modeling
+│   └── Customer Segmentation
+└── Business Strategy
+    ├── Process Improvement
+    ├── Supply Demand Management
+    ├── Strategic Planning
+    ├── Data Strategy
+    ├── Process Streamlining
+    ├── Stakeholder Management
+    └── Business Development
 ```
 
-### 🏆 Key Achievements
-- Reduced operational costs by $125K through analytics-driven optimization
-- Improved e-commerce performance with 25% reduction in returns
-- Automated business processes saving 100+ manual hours monthly
-- Led cross-functional teams across India, US & Singapore
+### Let's Connect
 
-### 📊 [<ins>Portfolio & Featured Projects</ins>](https://github.com/sagar-bushan/sagar-bushan.github.io)
-  
-### 📫 Connect With Me
-- [LinkedIn](https://www.linkedin.com/in/sagar-nagabushana)
-- [Email](mailto:sagar.bushan@gmail.com)
+I'm always open to discussing new projects, data challenges, or how analytics can transform your business.
 
+- 📧 Email: sagar.bushan@gmail.com
+- 💼 LinkedIn: [linkedin.com/in/sagar-nagabushana](https://www.linkedin.com/in/sagar-nagabushana)
+- 📁 Portfolio: [Explore My Projects](https://github.com/sagar-bushan/sagar-bushan.github.io)
